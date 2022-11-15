@@ -1,0 +1,337 @@
+@media(max-width:  900px){
+    .card-top{
+        width: 10rem;
+        background-color: #ffffff;
+        padding: 1rem;
+    }
+    .day{
+        display: block;
+        margin-top: 2rem;
+    }
+    .proper{
+        font-size: 15px;
+        padding: 1rem;
+    }
+    .photos{
+        width: 100px;
+        margin-right: 1rem;
+    }
+    .column{
+        background-color: rgb(85, 85, 85);
+        border: none;
+        color: #ffffff;
+        width: 10rem;
+       }
+       .colum{
+           background-color: rgb(51, 51, 51);
+           border: none;
+           color: #ffffff;
+           width: 10rem;
+           font-size: 8px;
+          }
+          .card-t{
+            font-size: 15px;
+            font-weight: 900px;
+            padding-right: 2rem;
+        }
+        .card-title{
+            font-size: 15px;
+        }
+    .carder{
+        border: none;
+        background-color: #ffffff;
+      width: 100%;
+        margin-bottom: 2rem;
+        /* margin-right: 1rem; */
+    }
+    .yty{
+        padding-right: 15rem;
+        padding-top: 2rem;
+    }
+    .high-res{
+        width: 200px;
+        margin-right: 15rem;
+    }
+    .hot{
+     color: #ffffff;
+     font-size:60px;
+     padding-right: 15rem;
+    }
+    .btn{
+        /* background-color: rgb(160, 195, 54); */
+        padding: .2rem 1rem;
+       }
+       .card-title{
+        font-size: 12px;
+    }
+    .mania{
+        width: 100px;
+    }
+    .corrder{
+        width: 300px;
+    }
+    .account{
+
+        text-align: justify ;
+    }
+    .shutterstock{
+        width: 400px;
+        padding-right: 2rem;
+        padding-bottom: 2rem;
+    }
+    .shuttersock{
+        width: 300px;
+        padding-bottom: 2rem;
+        padding-right: 2rem;
+    }
+    .certification{
+        width: 300px;
+        }
+        .auto-margin{
+            display: flex;
+            padding-top: 3rem;
+            padding-bottom: 5rem;
+        }
+        .puplic textarea{
+            width: 400px;
+            height: 100px;
+        }
+        .puplicp textarea{
+            width: 170px;
+            height: 110px;
+        }
+        .company-data{
+            display: flex;
+           justify-content:space-around;
+        }
+        .design-graphic{
+            width: 8rem;
+        }
+        .conclouss{
+            width: 100px;
+        }
+        .email-iconss{
+            width: 18px;
+        }
+        .smartphones{
+            text-align: center;
+            color: rgb(187, 13, 115);
+            font-size: 10px;
+        }
+        .user-order{
+            font-size: 10px;
+        }
+        .card-img-top{
+           width: 50px;
+        }
+        .all-card-img{
+            width: 100%;
+            display: grid;
+            grid-template-columns: auto;
+        }
+        .card-top {
+            width: 100%;
+         }
+         .preview{
+           width: 100%;
+        }
+}
+
+
+@media(max-width: 600px){
+    .photos{
+        width: 100px;
+        margin-right: 1rem;
+    }
+    .shamm{
+        width: 15rem;
+        /* margin-right: 2rem; */
+        margin-top: 2rem;
+    }
+    .column{
+        background-color: rgb(85, 85, 85);
+        border: none;
+        color: #ffffff;
+        width: 15rem;
+        margin-right: 2rem;
+        margin-top: 2rem;
+       }
+       .colum{
+           background-color: rgb(51, 51, 51);
+           border: none;
+           color: #ffffff;
+           width: 15rem;
+           font-size: 8px;
+           margin-right: 2rem;
+           margin-top: 2rem;
+          }
+          .card-t{
+            font-size: 15px;
+            font-weight: 900px;
+            padding-right: 2rem;
+        }
+        .card-title{
+            font-size: 15px;
+        }
+        .yty{
+            padding-right: 2rem;
+            padding-top: 2rem;
+        }
+        .high-res{
+            width: 200px;
+            margin-right: 2rem;
+        }
+        .hot{
+            color: #ffffff;
+            font-size:60px;
+            padding-right: 2rem;
+           }
+           .card-bod p{
+               font-size: 10px;
+           }
+           .carder{
+            border: none;
+            background-color: #ffffff;
+            width: 100%;
+            margin-top: 2rem;
+        }
+        .card-title{
+            font-size: 16px;
+            text-align: center;
+        }
+        .seven{
+            text-align: center;
+        }
+        .card-top{
+            width: 15rem;
+            background-color: #ffffff;
+            padding: 1rem;
+            margin-right: 2rem;
+            margin-top: 2rem;
+        }
+        .buymet{
+            font-size: 16px;
+        }
+        .corrder{
+            width: 200px;
+        }
+        .bussnis{
+            display: block;
+        }
+        .conntac{
+            padding-top: 2rem;
+            padding-right: 0rem;
+        }
+        .checck{
+            padding-right: 0rem;
+        }
+        .div-photo{
+            width: 100px;
+        }
+        .div-phot{
+            width: 70px;
+        }
+        .div-phoo{
+            width: 120px;
+        }
+        .dv-photo{
+            width: 120px;
+        }
+        .qualifiction{
+            background-color: rgb(175, 175, 175);
+            padding: 2rem;
+        }
+        .account{
+
+            text-align: justify ;
+        }
+        .shutterstock{
+            width: 300px;
+            padding-right: 2rem;
+            padding-bottom: 2rem;
+        }
+        .shuttersock{
+            width: 200px;
+            padding-bottom: 2rem;
+            padding-right: 2rem;
+        }
+        .company-z{
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+        }
+        .certification{
+            width: 200px;
+            }
+            .auto-margin{
+                display: block;
+                padding-top: 3rem;
+                padding-bottom: 5rem;
+            }
+            .accouny{
+                text-align: justify;
+                line-height: 3;
+            }
+            .cms-en{
+                width: 200px;
+            }
+            .simbolo{
+                width: 200px;
+            }
+            .puplic textarea{
+                width: 200px;
+                height:80px;
+            }
+            .puplicp textarea{
+                width: 170px;
+                height: 110px;
+            }
+            .company-data{
+                display: block;
+            }
+            .design-graphic{
+                width: 18rem;
+                margin-bottom: 1rem;
+            }
+            .conclouss{
+                margin: auto;
+            }
+            .card-img-top{
+                width: 100px;
+             }
+             .all-card-img{
+                 width: 100%;
+                 display: grid;
+                 grid-template-columns: auto auto;
+             }
+             .d-block{
+                width: 548px;
+    height: 456px;
+             }
+             .java{
+                width: 157%;
+             }
+             .rusa{
+                width: 157%;
+             }
+             .card-top {
+                width: 100%;
+             }
+             .row {
+                width: 100%;
+             }
+             .card-top {
+                width: 92%;
+             }
+             .footer{
+                
+                width: 157%;
+             }
+            .preview{
+                width: 157%;
+
+           }
+             /*  
+             .activee{
+                width: 162%;
+             } */
+}

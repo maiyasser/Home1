@@ -1,0 +1,711 @@
+.class{
+    width: 200px;
+}
+.cotact a{
+padding-right: 1rem;
+color: #000000;
+text-decoration: none;
+}
+.photos{
+    width: 100px;
+    margin-right: 10pxrem;
+}
+.item{
+    width: 100px;
+}
+.items{
+    width: 80px;
+}
+.teshart{
+    display: flex;
+}
+ul {
+    display: inline;
+    margin: 0;
+    padding: 0;
+  }
+  ul li {display: inline-block;}
+ 
+  ul li:hover ul {display: block;}
+  ul li ul {
+    position: absolute;
+    width: 1200px;
+    display: none;
+  }
+  ul li ul li { 
+    background: #ffffff; 
+    display: block; 
+    padding: 2rem;
+  }
+  ul li ul li a {display:block !important;} 
+  ul li ul li:hover {background: #ffffff;}
+.party a{
+    padding-left: 14px;
+color: #ffffff;
+text-decoration: none;
+}
+.parent{
+    display: flex;
+}
+li p{
+    font-size: 12px;
+}
+.teshart button{
+    padding: .3rem 1rem;
+    border: none;
+    background-color: #555;
+
+}
+.svg-img{
+    width: 2rem;
+}
+.black-back{
+    background-color: rgb(220, 16, 135);
+    padding: 3rem;
+    width: 100%;
+    margin-bottom: 10rem;
+}
+.teshar{
+    display: flex;
+    margin-right: 5rem;
+}
+.tesha{
+    display: flex;
+    /* margin-right: 20rem;
+    margin-left: 10rem; */
+}
+.style{
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    color:rgb(220, 16, 135) ;
+}
+li a{
+    color: #ffffff;
+}
+.party:hover {background: rgb(85, 1, 73);
+padding: 1rem;
+font-size:20px;}
+.card{
+    background-color: #ffffff;
+    padding: 1rem;
+  
+}
+.carder{
+    border: none;
+    background-color: #ffffff;
+    width: 100%;
+    text-align: center;
+}
+.margin{
+    padding-top: 1rem;
+}
+.class-background{
+    background-color: #F45F9F;
+}
+.card-t{
+    font-size: 40px;
+    font-weight: 900px;
+    padding-right: 2rem;
+}
+.card-title{
+    font-size: 16px;
+}
+
+.propal{
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.java{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.column{
+ background-color: rgb(85, 85, 85);
+ border: none;
+ color: #ffffff;
+ width: 22rem;
+}
+.colum{
+    background-color: rgb(51, 51, 51);
+    border: none;
+    color: #ffffff;
+    width: 22rem;
+   }
+   .carasol{
+       display: flex;
+   }
+   .colu{
+       margin-left: 1rem;
+       background-color: rgb(85, 85, 85);
+       color: #ffffff;
+       text-align: center;
+       height: 100px;
+       margin-top: 5rem;
+   }
+   .card-bo{
+       /* background-color: rgb(187, 13, 115); */
+       color: #ffffff;
+       border: none;
+   }
+   .color-pamby{
+       color: rgb(187, 13, 115);
+       font-size: 22px;
+   }
+   .pice{
+       color:#000000;
+   }
+   .green{
+       background-color: rgb(187, 13, 115);
+       border: none;
+       border-radius: 1rem;
+       padding: .5rem 1rem;
+       color: #ffffff;
+   }
+   .pho{
+       width: 40px;
+   }
+   .ssvg{
+       width: 150px;
+   }
+   .high-res{
+       width: 200px;
+   }
+   .hot{
+    color: #ffffff;
+    font-size:60px;
+   }
+   .child{
+       background-color: rgb(187, 13, 115) ;
+   }
+   .activee{
+       background-color: rgb(255, 210, 202);
+       padding: 2rem;
+       margin-bottom: 1rem;
+       margin-top: 1rem;
+       -webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size: cover;
+   }
+   .none{
+       width: 70px;
+       margin: auto;
+    
+   }
+   .removebg{
+    border: gray;
+   }
+   .qzdrl{
+    width: 90px;
+    margin: auto;
+   }
+   .qdrl{
+    width: 100px;
+    margin: auto;
+   }
+   .qdl{
+    width: 72px;
+    margin: auto;
+   }
+   .remove{
+    width: 88px;
+    margin: auto;
+   }
+   .remo{
+    width: 130px;
+    margin: auto;
+   }
+   .reo{
+    width: 79px;
+    margin: auto;
+   }
+   .eo{
+    width: 62px;
+    margin: auto;
+   }
+   .click{
+    width: 90px;
+    margin: auto;
+   }
+   .cl{
+    width: 114px;
+    margin: auto;
+   }
+   .cli{
+    width: 100px;
+    margin: auto;
+   }
+   .bulk{
+    width: 78px;
+    margin: auto;
+   }
+   .bu{
+    width: 87px;
+    margin: auto;
+   }
+   .bup{
+    width: 81px;
+    margin: auto;
+   }
+   .bul{
+    width: 100px;
+    margin: auto;
+   }
+   .btn{
+    background-color: #C42AB0;
+    padding: .2rem 1.5rem;
+   }
+   .btn-p{
+       background-color: #cb5389;
+   }
+   .btn-o{
+    background-color: #fc9def;
+   }
+   .javaa{
+    background-color: #bf2ac4;
+       padding:1rem ;
+       margin-top: 1rem;
+       margin-bottom: 1rem;
+       -webkit-background-size:cover;
+       -moz-background-size:cover;
+       -o-background-size:cover;
+       background-size: cover;
+   }
+   .income{
+    background-color: rgb(124, 5, 108);
+    padding:1rem ;
+    margin-top: 1rem;
+margin-bottom: 1rem;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size: cover;   }
+.incom{
+    background-color: rgb(35, 3, 89);
+    padding:1rem ;
+    margin-top: 1rem;
+margin-bottom: 1rem;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size: cover;
+}
+.rusa{
+    text-align: center;
+    font-size: 20px;
+    /* background-color: rgb(204, 204, 204); */
+  background: linear-gradient(to left, #766b74,#9a62c7 );
+    -webkit-backgroun3-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size: cover;
+
+}
+.hours{
+    text-align:right ;
+    font-size: 15px;
+    padding-top: .3rem;
+    padding-bottom: 1rem;
+}
+.proper{
+    font-size: 13px;
+    padding: 2.5rem;
+}
+ 
+.day{
+    display: flex;
+    margin-top: 2rem;
+}
+.obeed{
+    width: 90px;
+    padding-left: 1rem;
+}
+.speed{
+    font-size: 15px;
+}
+.mania{
+    width: 300px;
+}
+.notes{
+    padding-bottom: 3rem;
+}
+.unur{
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+.cool{
+    font-size: 15px;
+}
+.bussinsman{
+    width: 120px;
+    border-radius: 50%;
+}
+.footer{
+    background-color: rgb(43, 44, 45);
+    padding-top: 2rem;
+}
+.email-icon{
+    width: 30px;
+}
+.bussnis{
+    display: flex;
+}
+.loginput{
+    margin-right: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+padding: .5rem 2rem;
+border-radius: 1rem;
+background-color: rgb(136, 12, 107);
+border: none;
+}
+.bussnis span{
+    font-size: 14px;
+    color: #ffffff;
+}
+.ollapse{
+    display: flex;
+    justify-content: space-between;
+}
+.bussnis p{
+    font-size: 14px;
+    color: #ffffff;
+}
+.placeholder{
+    display: flex;
+    justify-content: space-around;
+}
+.alter{
+    width: 40px;
+}
+.form{
+    display: flex;
+
+}
+.form button{
+    padding: .7rem 2rem;
+    border-radius: 1rem;
+    border: none;
+    margin-right:1rem ;
+}
+.iconess{
+    padding-top: 2rem;
+    padding-right: 7rem;
+}
+.icon1{
+    width: 70px;
+    padding-left: 2rem;
+}
+.form input::placeholder{
+    font-size: 12px;
+}
+.promo{
+    width: 90px;
+}
+.stars{
+    color: red;
+}
+.classsignup{
+    text-align: center;
+}
+.actionpag{
+    display: flex;
+    justify-content: center;
+}
+.preview{
+    background-color: rgb(40, 40, 41);
+    padding: 3rem;
+    color: #ffffff;
+}
+
+.location{
+    color: #ffffff;
+    font-size: 12px;
+}
+.para{
+    font-size: 12px;
+}
+.unnamed a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 12px;
+    padding: .5rem;
+}
+.unnamed{
+    padding-right: 7rem;
+}
+.card-top{
+    width: 20rem;
+    background-color: #ffffff;
+    padding: 1rem;
+}
+.shamm:hover{
+    background-color: #db2cb2;
+   color: #ffffff;
+}
+.shamm{
+
+    width: 10rem;
+}
+.datafator .end-developer{
+    width: 400px;
+}
+.enter{
+    display: flex;
+}
+.data-enter{
+    color: rgb(187, 13, 115);
+    background-color: rgb(175, 175, 175);
+    padding: 1rem;
+}
+.confiduction{
+    color: rgb(187, 13, 115);
+    background-color: rgb(175, 175, 175);
+}
+.conntac{
+    padding-top: 2rem;
+    padding-right: 4rem;
+}
+.checck{
+    padding-right: 4rem;
+}
+.div-photo{
+    width: 100px;
+}
+.div-phot{
+    width: 70px;
+}
+.div-phoo{
+    width: 120px;
+}
+.dv-photo{
+    width: 120px;
+}
+.qualifiction{
+    background-color: rgb(175, 175, 175);
+    padding: 2rem;
+}
+.account{
+
+    text-align: center ;
+}
+.shutterstock{
+    width: 1000px;
+    padding-bottom: 2rem;
+}
+.shuttersock{
+    width: 700px;
+    padding-bottom: 2rem;
+    padding-right: 20rem;
+}
+.company-z{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.accoun{
+    text-align: justify;
+    line-height: 3;
+}
+.company-pp{
+    padding-bottom: 4rem;
+}
+.html{
+    color: rgb(187, 13, 115);
+}
+.number-ten{
+    color: gray;
+}
+.certification{
+width: 300px;
+}
+.auto-margin{
+    display: flex;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+.accouny{
+    text-align: justify;
+    line-height: 3;
+}
+.simbolo{
+    width: 300px;
+}
+.bootstrap{
+    display: flex;
+    justify-content: space-around;
+}
+.puplic textarea{
+    width: 900px;
+    height: 150px;
+}
+.company-data{
+    display: flex;
+    justify-content: space-between;
+}
+.data-enters{
+    color: rgb(187, 13, 115);
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.puplicp textarea{
+    width: 440px;
+    height: 150px;
+}
+
+.conclouss{
+    width: 200px;
+}
+.widthes{
+    width: 160px;
+}
+.concls{
+    width: 400px;
+}
+.onlineship{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(187, 13, 115);
+}
+.tiiitle{
+    text-align: center;
+}
+.smartphones{
+    text-align: center;
+    color: rgb(187, 13, 115);
+}
+.design-graphic{
+    width: 16rem;
+}
+.email-iconss{
+    width: 26px;
+}
+.clint-service{
+    padding-top: 2rem;
+    padding-bottom:2em ;
+}
+.class-orders{
+    display: flex;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+.removeebg{
+    width: 100px;
+}
+.prepare{
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+.party-dance{
+    width: 100px;
+}
+.data-ter{
+    font-size: 50px;
+    font-weight: 1000;
+    padding-right: 2rem;
+}
+.data-r{
+    font-size: 15px;
+    font-weight: 1000;
+    padding-right: 2rem;
+}
+.party-dan{
+    width: 50px;
+}
+.merio{
+    padding-bottom: 5rem;
+}
+.party-d{
+   
+    width: 30px;
+}
+.party{
+    padding-left: 2rem;
+    font-size: 25px;
+   
+}
+.party a{
+font-size: 15px;
+    padding: 20px;
+    
+}
+.meri{
+    background-color: #ffffff;
+    padding: 1rem ;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+}
+.merina{
+    background-color: #ffffff;
+    padding: 1rem ;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+}
+.partan{
+    width: 100px;
+}
+.data-{
+    font-size: 15px;
+    font-weight: 1000;
+    padding-right: 0rem;
+}
+.d-block{
+    width: 571px;
+    height: 444px;
+}
+.javs{
+    /* width: 80%;
+    margin: auto; */
+    display: flex;
+    /* align-items: center; */
+    /* text-align: center; */
+
+}
+.colum{
+    border-radius: 0px;
+}
+.card-title{
+    font-size: 1rem;
+}
+/* .card-t{
+    font-size: 3rem;
+} */
+.card-background1{
+    background-color: rgb(100, 96, 96);
+}
+button{
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+    border: none;
+    background-color: #F45F9F;
+}
+.card-background2{
+    background-color: rgb(0, 0, 0);
+}
+.card-background3{
+    background-color: rgb(100, 96, 96);
+}
+.unur{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.activee{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.preview{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.row{
+    margin-right: 0px;
+    margin-left: 0%;
+}
+.corrder{
+    background: linear-gradient(to left, #77207433, #44179d8f );
+}
